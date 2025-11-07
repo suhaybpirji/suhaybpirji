@@ -8,7 +8,7 @@
 * AWS Cloud Practitioner
 
 ## Connect with me:
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/suhayb-pirji-2bb58217a)
 <!--
 **suhaybpirji/suhaybpirji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
