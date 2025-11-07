@@ -9,6 +9,9 @@
 
 ## Connect with me:
 [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/suhayb-pirji-2bb58217a)
+<a href="(https://www.linkedin.com/in/suhayb-pirji-2bb58217a)">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
+</a>
 <!--
 **suhaybpirji/suhaybpirji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
