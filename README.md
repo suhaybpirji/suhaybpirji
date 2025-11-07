@@ -3,7 +3,7 @@
 ## Cloud Projects
 
 - <b>AWS VPC Setup</b>
-  - ** [Setting up a VPC using Terraform](https://github.com/suhaybpirji/terraform-aws-vpc-setup) **
+  - [Setting up a VPC using Terraform](https://github.com/suhaybpirji/terraform-aws-vpc-setup)
   
 
 ## Certifications
