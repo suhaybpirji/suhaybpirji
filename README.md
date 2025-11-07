@@ -3,7 +3,8 @@
 ## Cloud Projects
 
 - <b>AWS VPC Setup</b>
-  [Praciting DS & Algos in Python] (https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Setting up a VPC using Terraform]
+  
 
 ## Certifications
 * AWS Solutions Architect Assosicate <br>
