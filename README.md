@@ -1,6 +1,6 @@
 ## Hi, I'm Suhayb! 👋
 
-### Cloud Projects
+## Cloud Projects
 
 
 ### Certifications
