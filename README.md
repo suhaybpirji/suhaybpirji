@@ -8,8 +8,7 @@
 * AWS Cloud Practitioner
 
 ## Connect with me:
-<a href="(https://www.linkedin.com/in/suhayb-pirji-2bb58217a)" target="_blank">
->
+<a href="https://www.linkedin.com/in/suhayb-pirji-2bb58217a" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
 </a>
 <!--
