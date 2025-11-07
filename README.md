@@ -2,6 +2,7 @@
 
 ## Cloud Projects
 
+- <b>Terraform AWS VPC Setup </b>
 
 ## Certifications
 * AWS Solutions Architect Assosicate <br>
