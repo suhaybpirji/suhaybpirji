@@ -25,10 +25,24 @@
 - VS Code
 
 
-## Cloud Projects
+### 📌 Featured Project
 
-  - [Setting up a VPC using Terraform](https://github.com/suhaybpirji/terraform-aws-vpc-setup)
-  - [docker-messages-app](https://github.com/suhaybpirji/docker-messages-app)
+### 🔹 Full‑Stack Docker Messages App
+A complete full‑stack application built with **Docker Compose**, featuring:
+
+- NGINX frontend
+- Flask API backend
+- PostgreSQL database
+- CRUD operations
+- Pagination + search
+- Logging + health checks
+- Clean UI with CSS
+
+👉 **GitHub Repo:** [docker-messages-app](https://github.com/suhaybpirji/docker-messages-app)
+
+👉 **Screenshot:**
+![App Screenshot](https://raw.githubusercontent.com/suhaybpirji/docker-messages-app/main/nginx/html/screenshot.png)
+
   
 
 ## Certifications
