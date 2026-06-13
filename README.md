@@ -51,6 +51,11 @@ A complete full‑stack application built with **Docker Compose**, featuring:
 <a href="mailto:suhayb569@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+## 📫 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
 
 <!--
 **suhaybpirji/suhaybpirji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
