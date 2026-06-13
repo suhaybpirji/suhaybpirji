@@ -7,6 +7,7 @@
 
 - <b>AWS VPC Setup</b>
   - [Setting up a VPC using Terraform](https://github.com/suhaybpirji/terraform-aws-vpc-setup)
+  - [docker-messages-app](https://github.com/suhaybpirji/docker-messages-app)
   
 
 ## Certifications
