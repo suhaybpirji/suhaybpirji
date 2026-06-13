@@ -2,6 +2,28 @@
 
 ### I’m a 1st Line Technical Analyst transitioning into Cloud, DevOps, and Application Support. I enjoy building real-world projects, troubleshooting complex issues, and learning modern cloud technologies.
 
+## 🚀 Skills & Technologies
+
+**Cloud & DevOps**
+- AWS (EC2, S3, IAM)
+- Terraform
+- Docker & Docker Compose
+- Git & GitHub Actions
+- Linux server management
+
+**Support & Infrastructure**
+- Active Directory, DNS, DHCP, Group Policy
+- Windows Server administration
+- M365 Admin Center & Intune
+- Networking fundamentals, firewalls, VPNs
+
+**Programming & Tools**
+- Python (Flask)
+- PostgreSQL
+- NGINX reverse proxy
+- PowerShell & Bash
+- VS Code
+
 
 ## Cloud Projects
 
