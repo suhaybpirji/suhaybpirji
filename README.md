@@ -40,9 +40,11 @@ A complete full‑stack application built with **Docker Compose**, featuring:
 
 👉 **GitHub Repo:** [docker-messages-app](https://github.com/suhaybpirji/docker-messages-app)
 
-## Certifications
-* AWS Solutions Architect Assosicate <br>
-* AWS Cloud Practitioner
+## 🎓 Certifications
+
+- **AWS Solutions Architect – Associate (SAA‑C03)**
+- **AWS Certified Cloud Practitioner (CLF‑C02)**
+
 
 ## 📫 Connect with me:
 <a href="https://www.linkedin.com/in/suhayb-pirji-2bb58217a" target="_blank">
