@@ -1,4 +1,4 @@
-## Hi, I'm Suhayb! 👋 | I am a 1st Line Support Analyst looking to get into Cloud Engineering
+## Hi, I'm Suhayb! 👋 | I am a 1st Line Support Analyst
 
 ### Welcome to my GitHub portfolio, showcasing hands-on cloud projects and my journey into cloud engineering
 
