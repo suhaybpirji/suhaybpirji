@@ -1,7 +1,6 @@
 ## Hi, I'm Suhayb! 👋 | Cloud & Support Engineer
 
-### I’m a 1st Line Technical Analyst transitioning into Cloud, DevOps, and Application Support.
-I enjoy building real-world projects, troubleshooting complex issues, and learning modern cloud technologies.
+### I’m a 1st Line Technical Analyst transitioning into Cloud, DevOps, and Application Support. I enjoy building real-world projects, troubleshooting complex issues, and learning modern cloud technologies.
 
 
 ## Cloud Projects
