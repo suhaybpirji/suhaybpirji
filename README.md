@@ -1,6 +1,7 @@
-## Hi, I'm Suhayb! 👋 | I am a 1st Line Support Analyst
+## Hi, I'm Suhayb! 👋 | I am a 1st Line Support Analyst and an aspiring Cloud Engineer
 
-### Welcome to my GitHub portfolio, showcasing hands-on cloud projects and my journey into cloud engineering
+### I’m a 1st Line Technical Analyst transitioning into Cloud, DevOps, and Application Support.
+I enjoy building real-world projects, troubleshooting complex issues, and learning modern cloud technologies.
 
 
 ## Cloud Projects
