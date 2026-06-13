@@ -40,11 +40,6 @@ A complete full‑stack application built with **Docker Compose**, featuring:
 
 👉 **GitHub Repo:** [docker-messages-app](https://github.com/suhaybpirji/docker-messages-app)
 
-👉 **Screenshot:**
-![App Screenshot](https://raw.githubusercontent.com/suhaybpirji/docker-messages-app/main/nginx/html/screenshot.png)
-
-  
-
 ## Certifications
 * AWS Solutions Architect Assosicate <br>
 * AWS Cloud Practitioner
