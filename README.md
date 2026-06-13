@@ -49,8 +49,9 @@ A complete full‑stack application built with **Docker Compose**, featuring:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
 </a>
 <a href="mailto:suhayb569@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://www.vecteezy.com/png/22484508-google-mail-gmail-icon-logo-symbol)"width="30" height="30"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="30" height="30" />
 </a>
+
 
 <!--
 **suhaybpirji/suhaybpirji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
