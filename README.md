@@ -1,6 +1,6 @@
 ## Hi, I'm Suhayb! 👋 | Aspiring IT Professional
 
-### I’m a 1st Line Technical Analyst looking to develop my techincal skills. I enjoy building real-world projects, troubleshooting complex issues, and learning modern technologies.
+### I’m a 1st Line Technical Analyst looking to develop my techincal skills. I enjoy building real-world projects, troubleshooting complex issues, and learning modern technologies. 
 
 ## 🚀 Skills & Technologies
 
