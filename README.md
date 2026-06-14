@@ -6,6 +6,7 @@
 
 **Cloud & DevOps**
 - AWS (EC2, S3, IAM)
+- Azure
 - Terraform
 - Docker & Docker Compose
 - Git & GitHub Actions
