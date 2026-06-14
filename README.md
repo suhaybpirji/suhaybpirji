@@ -1,50 +1,93 @@
-## Hi, I'm Suhayb! 👋 | Aspiring IT Professional
+# 👋 Hi, I'm Suhayb Pirji  
 
-### I’m a 1st Line Technical Analyst looking to develop my techincal skills. I enjoy building real-world projects, troubleshooting complex issues, and learning modern technologies. 
+Aspiring IT professional, passionate about Cloud Computing, networking, automation, and building real-world homelabs that mirror enterprise environments.
 
-## 🚀 Skills & Technologies
+I currently work as a **1st Line Technical Analyst**, and I’m actively developing my techincal skills through hands-on projects, certifications, and deep technical labs.
 
-**Cloud & DevOps**
-- AWS (EC2, S3, IAM)
-- Azure
-- Terraform
-- Docker & Docker Compose
-- Git & GitHub Actions
-- Linux server management
+---
 
-**Support & Infrastructure**
-- Active Directory, DNS, DHCP, Group Policy
-- Windows Server administration
-- M365 Admin Center & Intune
-- Networking fundamentals, firewalls, VPNs
+## 🚀 Featured Projects
 
-**Programming & Tools**
-- Python
-- SQL
-- NGINX reverse proxy
-- PowerShell & Bash
-- VS Code
+### 🏠 Homelab – Enterprise Network Simulation  
+A full enterprise-style homelab built using pfSense, Windows Server (AD, DNS, DHCP), VirtualBox, VLANs, and network segmentation.  
+**Includes:**  
+- pfSense firewall configuration  
+- Active Directory domain setup  
+- DNS & DHCP  
+- Windows 11 domain join  
+- Network diagram  
+- VLAN design  
+- Documentation & screenshots  
 
+🔗 Repo: *Coming soon…*
 
-### 📌 Featured Project
+---
 
-### 🔹 Full‑Stack Docker Messages App
-A complete full‑stack application built with **Docker Compose**, featuring:
+### 🧰 IT Support SOPs – Real-World Documentation  
+A full set of IT Support Standard Operating Procedures covering AD, M365, networking, Windows troubleshooting, and more.  
+Designed to simulate real 1st/2nd line workflows.
 
-- NGINX frontend
-- Flask API backend
-- PostgreSQL database
-- CRUD operations
-- Pagination + search
-- Logging + health checks
-- Clean UI with CSS
+🔗 Repo: https://github.com/suhaybpirji/ITSupportSOPs
 
-👉 **GitHub Repo:** [docker-messages-app](https://github.com/suhaybpirji/docker-messages-app)
+---
+
+### 🛠️ Support Automation Scripts (PowerShell + Bash)  
+A collection of automation scripts used in real 2nd Line Support environments.  
+Includes scripts for:  
+- Active Directory user management  
+- Password resets  
+- Event log exports  
+- Disk usage checks  
+- Linux monitoring scripts  
+- Backup scripts  
+
+🔗 Repo: https://github.com/suhaybpirji/support-automation-scripts
+
+---
+
+### 🐳 Docker Messages App  
+A simple containerised application demonstrating Docker fundamentals, GitHub workflows, and deployment structure.
+
+🔗 Repo: https://github.com/suhaybpirji/docker-messages-app
+
+---
+
+## 🧠 Skills & Technologies
+
+### **Cloud**
+- AWS (EC2, S3, IAM, VPC, CloudWatch)
+- Terraform (IaC)
+- Azure (basic)
+
+### **Infrastructure**
+- Windows Server 2022  
+- Active Directory, DNS, DHCP  
+- Group Policy  
+- VirtualBox  
+- pfSense Firewall  
+- Networking (VLANs, routing, NAT, VPN)
+
+### **Scripting**
+- PowerShell  
+- Bash  
+- Python (basic)
+
+### **Tools**
+- Git & GitHub  
+- VS Code  
+- Wireshark  
+- Draw.io  
+
+---
 
 ## 🎓 Certifications
+- AWS Solutions Architect Associate
+- AWS Cloud Practitioner
+  
+---
 
-- **AWS Solutions Architect – Associate (SAA‑C03)**
-- **AWS Certified Cloud Practitioner (CLF‑C02)**
+## ⚡ Fun Fact  
+I break things on purpose — then fix them — because that’s how real engineers learn.
 
 
 ## 📫 Connect with me:
