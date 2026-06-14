@@ -18,8 +18,8 @@
 - Networking fundamentals, firewalls, VPNs
 
 **Programming & Tools**
-- Python (Flask)
-- PostgreSQL
+- Python
+- SQL
 - NGINX reverse proxy
 - PowerShell & Bash
 - VS Code
